@@ -1,0 +1,96 @@
+
+body{
+	background-color: #fafafa;
+}
+
+/*主要内容*/
+#main{
+	width: 1160px;
+	margin: 0 auto;
+	background-color: #fafafa;
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+#main .list_title{
+	margin: 10px 0;
+}
+#main .title{
+	font-size: 24px;
+    text-align: center;
+    margin: 60px 0;
+}
+#main .list_xz{
+	text-decoration: underline;
+	color: #2c3e50;
+}
+#main .last{
+	text-align: center;
+}
+#main .last a{
+	border: 1px solid #AAAAAA;
+	margin-left: 5px;
+}
+#main ul.left{
+	overflow: hidden;
+	border: 1px solid #959595;
+	height: 1039px;
+	width: 198px;
+	float: left;
+}
+
+#main li.lb{
+	font-size: 16px;
+	height: 47px;
+	color: #2c3e50;
+	border-bottom: 1px solid #959595;
+	text-align: center;
+	line-height: 46px;
+	border-left: 5px solid #FFFFFF;
+	background-color: #FFFFFF;
+}
+#main li.on{
+	border-left: 5px solid #2c3e50;
+}
+#main .right{
+	float: right;
+	width: 899px;
+	height: 1039px;
+	border:  1px solid #959595;
+	border-left: 0;
+	background-color: #FFFFFF;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+#main .right .nr1{
+	padding-bottom: 60px;
+	border-bottom: 1px solid #8c8c8c;
+}
+#main .right p.title1{
+	font-size: 24px;
+	color: #2c3e50;
+	padding: 60px 0 30px 0;
+}
+#main .right p.text{
+	font-size: 16px;
+	color: #2b2b2b;
+	text-indent:2em;
+	line-height: 30px;
+}
+#main .right p.title2{
+	font-size: 24px;
+    color: #2c3e50;
+    padding: 60px 0 30px 0;
+}
+#main .right .nr2 ul.tm{
+	padding-bottom: 94px;
+	overflow: hidden;
+}
+#main .right .nr2 ul.tm li.team{
+	width: 216px;
+	height: 216px;
+	margin-right: 6px;
+	margin-bottom: 6px;
+}
+#main .right .nr2 ul.tm li.no_margin{
+	margin-right: 0;
+}

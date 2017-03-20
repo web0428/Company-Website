@@ -1,0 +1,81 @@
+
+/*主要内容*/
+#main{
+	width: 1140px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#main .list_title{
+	margin: 10px 0;
+	font-size: 14px;
+}
+#main .list_xz{
+	text-decoration: underline;
+	color: #2c3e50;
+}
+#main .last{
+	text-align: center;
+}
+#main .last a{
+	border: 1px solid #AAAAAA;
+	margin-left: 5px;
+}
+#main .title{
+	font-size: 24px;
+	text-align: center;
+	margin:30px 0 60px;
+}
+#main p{
+	font-size: 16px;
+	color: #2b2b2b;
+}
+#main p.text1{
+	margin: 0 auto;
+	text-align: center;
+	width: 272px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #9f9e9e;
+}
+#main p.text2{
+	margin: 0 auto 60px;
+	text-align: center;
+	width: 272px;
+	padding-top: 20px;
+}
+
+#main .end{
+	text-align: center;
+	color: #9f9e9e;
+	margin-bottom: 100px;
+}
+#main .nr{
+	overflow: hidden;
+}
+#main .nr li{
+	padding-bottom: 60px;
+	overflow: hidden;
+}
+#main .nr li div.words{
+	margin-left: 20px;
+	width: 570px;
+}
+#main .nr li div p.number{
+	font-size: 24px;
+	color: #2c3e50;
+	padding-top: 7px;
+	padding-right: 8px;
+} 
+#main .nr li div p.place{
+	font-size: 14px;
+	color: #2c3e50;
+	padding-bottom: 30px;
+}
+#main .nr li div.detailed{
+	padding-left: 20px;
+	width: 570px;
+}
+#main .nr li div.detailed p{
+	text-indent: 2em;
+	line-height: 30px;
+	font-size: 14px;
+}
